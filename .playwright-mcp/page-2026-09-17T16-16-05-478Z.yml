@@ -1,0 +1,78 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e8]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: https://www.traintomumbai.com
+          - img "Canvas Logo" [ref=e11]
+        - navigation [ref=e12]:
+          - list [ref=e13]:
+            - listitem [ref=e14]:
+              - link "Home" [ref=e15] [cursor=pointer]:
+                - /url: https://www.traintomumbai.com
+            - listitem [ref=e17]:
+              - link "Spice Route" [ref=e18] [cursor=pointer]:
+                - /url: https://www.traintomumbai.com/spice-route
+            - listitem [ref=e20]:
+              - link "Concept" [ref=e21] [cursor=pointer]:
+                - /url: https://www.traintomumbai.com/concept
+            - listitem [ref=e23]:
+              - link "Catering" [ref=e24] [cursor=pointer]:
+                - /url: https://www.traintomumbai.com/catering
+                - generic [ref=e25]: Catering 
+              - text: 
+            - listitem [ref=e26]:
+              - link "Join Our team" [ref=e27] [cursor=pointer]:
+                - /url: https://www.traintomumbai.com/career
+            - listitem [ref=e29]:
+              - link "Contact" [ref=e30] [cursor=pointer]:
+                - /url: https://www.traintomumbai.com/contact-us
+        - link " 0" [ref=e33] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e34]: 
+          - generic [ref=e35]: "0"
+        - link "Order Now" [ref=e37] [cursor=pointer]:
+          - /url: https://order.toasttab.com/online/avanni-llc-11-town-center-drive
+    - generic [ref=e40]:
+      - heading "Life is too short for bland food!" [level=1] [ref=e46]
+      - heading "\"Real Indian street food, made from scratch\"" [level=1] [ref=e62]
+      - generic [ref=e66]:
+        - heading "Namaste.." [level=1] [ref=e67]
+        - paragraph [ref=e68]: Welcome aboard Train to Mumbai, where every meal is an unforgettable journey through the vibrant streets and bold flavors of India. We bring the essence of India's bustling food culture right to your table, blending tradition with a modern, convenient twist. Whether you're craving a quick takeaway, a delivery feast, or a cozy sit-down experience, we offer a dining adventure that's both dynamic and inviting.
+        - paragraph [ref=e69]: Our menu is a tribute to India's rich culinary heritage, thoughtfully curated to celebrate bold, diverse flavors. By blending time-honored cooking techniques with inventive ingredient pairings, we craft dishes that are both authentically rooted and delightfully surprising.
+        - paragraph [ref=e70]: At Train to Mumbai, every bite is a sensory journey—designed to thrill your taste buds and leave a lasting impression. Whether you're on the move or settling in to savor the moment, we invite you to embark on a flavorful adventure with us.
+      - generic [ref=e73]:
+        - heading "Real Indian Food" [level=1] [ref=e76]
+        - link "Order Now" [ref=e78] [cursor=pointer]:
+          - /url: https://order.toasttab.com/online/avanni-llc-11-town-center-drive
+    - contentinfo [ref=e79]:
+      - generic [ref=e85]:
+        - generic [ref=e89]:
+          - heading "11 Town Center Drive, Suite 185 Lovettsville, VA" [level=5] [ref=e90]
+          - heading "Phone:" [level=5] [ref=e91]
+          - heading [level=5] [ref=e92]:
+            - link "+1 (540) 668-5095" [ref=e93] [cursor=pointer]:
+              - /url: tel:+1 (540) 668-5095
+            - link "+1 (540) 668-5183" [ref=e94] [cursor=pointer]:
+              - /url: tel:+1 (540) 668-5183
+        - list [ref=e96]:
+          - listitem [ref=e97]:
+            - text: 
+            - link "Spice Route" [ref=e98] [cursor=pointer]:
+              - /url: https://www.traintomumbai.com/spice-route
+          - listitem [ref=e99]:
+            - text: 
+            - link "Concept" [ref=e100] [cursor=pointer]:
+              - /url: https://www.traintomumbai.com/concept
+          - listitem [ref=e101]:
+            - text: 
+            - link "Catering" [ref=e102] [cursor=pointer]:
+              - /url: https://www.traintomumbai.com/catering
+          - listitem [ref=e103]:
+            - text: 
+            - link "Contact" [ref=e104] [cursor=pointer]:
+              - /url: https://www.traintomumbai.com/contact-us
+        - generic [ref=e106]:
+          - heading "Timings:" [level=5] [ref=e107]
+          - 'heading "Tuesday to Thursday: 11:30am to 2:30pm & 4:30pm to 9:00pm Friday: 11:30am to 9pm Saturday: Noon to 9pm Sunday: Noon- 3pm & 4:30-9pm Monday: Closed" [level=5] [ref=e108]'
+  - text: 

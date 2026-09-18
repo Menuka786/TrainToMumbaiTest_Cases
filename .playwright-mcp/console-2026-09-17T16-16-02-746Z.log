@@ -1,0 +1,130 @@
+[  113411ms] [INFO] 
+IFRAME-RESIZER
+
+Iframe-Resizer 5 is now available via the following two packages:
+
+ * @iframe-resizer/parent
+ * @iframe-resizer/child
+
+Additionally their are also new versions of iframe-resizer for React, Vue, and jQuery.
+
+Version 5 of iframe-resizer has been extensively rewritten to use modern browser APIs, which has enabled significantly better performance and greater accuracy in the detection of content resizing events.
+
+Please see https://iframe-resizer.com/upgrade for more details.
+ @ https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1
+[  113423ms] [WARNING] [LaunchDarkly] LaunchDarkly client was initialized with bootstrap data that did not include flag metadata. Events may not be sent correctly. Please see https://docs.launchdarkly.com/sdk/client-side/javascript#initialize-the-client for instructions on SDK initialization. @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  113424ms] [WARNING] [LaunchDarkly] The waitForInitialization function was called without a timeout specified. In a future version a default timeout will be applied. @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  113425ms] [INFO] [LaunchDarkly] LaunchDarkly client initialized @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  113549ms] [WARNING] Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  113551ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at sa (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:48484)
+    at xi (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:121086)
+    at bs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108660)
+    at gs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108588)
+    at vs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108451)
+    at ls (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:103616)
+    at _ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:575730)
+    at $ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:576262)
+    at I.<computed> (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157931)
+    at S (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157700)
+    at O (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157759)
+[  113551ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at sa (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:48484)
+    at xi (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:121086)
+    at bs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108660)
+    at gs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108588)
+    at vs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108451)
+    at ls (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:103616)
+    at _ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:575730)
+    at $ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:576262)
+    at I.<computed> (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157931)
+    at S (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157700)
+    at O (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157759)
+[  113551ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at sa (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:48484)
+    at xi (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:121086)
+    at bs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108660)
+    at gs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108588)
+    at vs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108451)
+    at ls (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:103616)
+    at _ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:575730)
+    at $ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:576262)
+    at I.<computed> (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157931)
+    at S (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157700)
+    at O (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157759)
+[  113552ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at sa (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:48484)
+    at xi (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:121086)
+    at bs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108660)
+    at gs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108588)
+    at vs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108451)
+    at ls (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:103616)
+    at _ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:575730)
+    at $ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:576262)
+    at I.<computed> (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157931)
+    at S (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157700)
+    at O (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157759)
+[  113552ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at sa (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:48484)
+    at xi (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:121086)
+    at bs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108660)
+    at gs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108588)
+    at vs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108451)
+    at ls (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:103616)
+    at _ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:575730)
+    at $ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:576262)
+    at I.<computed> (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157931)
+    at S (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157700)
+    at O (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157759)
+[  113552ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at sa (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:48484)
+    at xi (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:121086)
+    at bs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108660)
+    at gs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108588)
+    at vs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108451)
+    at ls (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:103616)
+    at _ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:575730)
+    at $ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:576262)
+    at I.<computed> (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157931)
+    at S (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157700)
+    at O (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157759)
+[  113552ms] Uncaught Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at xi (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:120772)
+    at bs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108660)
+    at gs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108588)
+    at vs (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:108451)
+    at as (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:105286)
+    at ls (https://d28f3w0x9i80nq.cloudfront.net/app/react_1789656425.min.js:1:103842)
+    at _ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:575730)
+    at $ (https://d28f3w0x9i80nq.cloudfront.net/app/vendor_1789656425.min.js:1:576262)
+    at I.<computed> (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157931)
+    at S (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157700)
+    at O (https://d28f3w0x9i80nq.cloudfront.net/app/polyfills_1789656425.min.js:1:157759)
+[  113564ms] [WARNING] [LaunchDarkly] LaunchDarkly client was initialized with bootstrap data that did not include flag metadata. Events may not be sent correctly. Please see https://docs.launchdarkly.com/sdk/client-side/javascript#initialize-the-client for instructions on SDK initialization. @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  113564ms] [WARNING] [LaunchDarkly] The waitForInitialization function was called without a timeout specified. In a future version a default timeout will be applied. @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  113565ms] [INFO] [LaunchDarkly] LaunchDarkly client initialized @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  113565ms] [INFO] [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/59e4bfdd6292ac0ac9174386/eyJrZXkiOiJhNDQ2NjZlOC1kN2JjLTQ1ZGItODEzOC03ZTBjNmJmZGM3NjciLCJjdXN0b20iOnsibWdtdF9ncm91cCI6Ijg0YzQxYWQ1LWM4N2EtNDFhOC1iYWU1LTVkYTRlYmNhMzliNCJ9fQ @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  114082ms] [WARNING] Datadog Browser SDK: SDK is loaded more than once. This is unsupported and might have unexpected behavior. @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  114085ms] [WARNING] It's possible that you are loading beacon script multiple times. Please, check your code. @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  121556ms] [WARNING] Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  123293ms] [LOG] Download the Apollo DevTools for a better development experience: %s https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  478965ms] [WARNING] [LaunchDarkly] Error on stream connection: {"isTrusted":true}, will continue retrying after 710 milliseconds. @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  478969ms] [INFO] [LaunchDarkly] Closing stream connection @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  478970ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://clientstream.launchdarkly.com/eval/59e4bfdd6292ac0ac9174386/eyJrZXkiOiJhNDQ2NjZlOC1kN2JjLTQ1ZGItODEzOC03ZTBjNmJmZGM3NjciLCJjdXN0b20iOnsibWdtdF9ncm91cCI6Ijg0YzQxYWQ1LWM4N2EtNDFhOC1iYWU1LTVkYTRlYmNhMzliNCJ9fQ:0
+[  479687ms] [INFO] [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/59e4bfdd6292ac0ac9174386/eyJrZXkiOiJhNDQ2NjZlOC1kN2JjLTQ1ZGItODEzOC03ZTBjNmJmZGM3NjciLCJjdXN0b20iOnsibWdtdF9ncm91cCI6Ijg0YzQxYWQ1LWM4N2EtNDFhOC1iYWU1LTVkYTRlYmNhMzliNCJ9fQ @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  773180ms] [WARNING] [LaunchDarkly] Error on stream connection: {"isTrusted":true}, will continue retrying after 916 milliseconds. @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  773181ms] [INFO] [LaunchDarkly] Closing stream connection @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  773182ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://clientstream.launchdarkly.com/eval/59e4bfdd6292ac0ac9174386/eyJrZXkiOiJhNDQ2NjZlOC1kN2JjLTQ1ZGItODEzOC03ZTBjNmJmZGM3NjciLCJjdXN0b20iOnsibWdtdF9ncm91cCI6Ijg0YzQxYWQ1LWM4N2EtNDFhOC1iYWU1LTVkYTRlYmNhMzliNCJ9fQ:0
+[  774104ms] [INFO] [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/59e4bfdd6292ac0ac9174386/eyJrZXkiOiJhNDQ2NjZlOC1kN2JjLTQ1ZGItODEzOC03ZTBjNmJmZGM3NjciLCJjdXN0b20iOnsibWdtdF9ncm91cCI6Ijg0YzQxYWQ1LWM4N2EtNDFhOC1iYWU1LTVkYTRlYmNhMzliNCJ9fQ @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  906561ms] [WARNING] [LaunchDarkly] Error on stream connection: {"isTrusted":true}, will continue retrying after 824 milliseconds. @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  906563ms] [INFO] [LaunchDarkly] Closing stream connection @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[  906564ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://clientstream.launchdarkly.com/eval/59e4bfdd6292ac0ac9174386/eyJrZXkiOiJhNDQ2NjZlOC1kN2JjLTQ1ZGItODEzOC03ZTBjNmJmZGM3NjciLCJjdXN0b20iOnsibWdtdF9ncm91cCI6Ijg0YzQxYWQ1LWM4N2EtNDFhOC1iYWU1LTVkYTRlYmNhMzliNCJ9fQ:0
+[  907389ms] [INFO] [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/59e4bfdd6292ac0ac9174386/eyJrZXkiOiJhNDQ2NjZlOC1kN2JjLTQ1ZGItODEzOC03ZTBjNmJmZGM3NjciLCJjdXN0b20iOnsibWdtdF9ncm91cCI6Ijg0YzQxYWQ1LWM4N2EtNDFhOC1iYWU1LTVkYTRlYmNhMzliNCJ9fQ @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[ 1802515ms] [WARNING] [LaunchDarkly] Error on stream connection: {"isTrusted":true}, will continue retrying after 964 milliseconds. @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[ 1802518ms] [INFO] [LaunchDarkly] Closing stream connection @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[ 1802524ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://clientstream.launchdarkly.com/eval/59e4bfdd6292ac0ac9174386/eyJrZXkiOiJhNDQ2NjZlOC1kN2JjLTQ1ZGItODEzOC03ZTBjNmJmZGM3NjciLCJjdXN0b20iOnsibWdtdF9ncm91cCI6Ijg0YzQxYWQ1LWM4N2EtNDFhOC1iYWU1LTVkYTRlYmNhMzliNCJ9fQ:0
+[ 1803491ms] [INFO] [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/59e4bfdd6292ac0ac9174386/eyJrZXkiOiJhNDQ2NjZlOC1kN2JjLTQ1ZGItODEzOC03ZTBjNmJmZGM3NjciLCJjdXN0b20iOnsibWdtdF9ncm91cCI6Ijg0YzQxYWQ1LWM4N2EtNDFhOC1iYWU1LTVkYTRlYmNhMzliNCJ9fQ @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[ 2264623ms] [WARNING] [LaunchDarkly] Error on stream connection: {"isTrusted":true}, will continue retrying after 633 milliseconds. @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[ 2264625ms] [INFO] [LaunchDarkly] Closing stream connection @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0
+[ 2264627ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://clientstream.launchdarkly.com/eval/59e4bfdd6292ac0ac9174386/eyJrZXkiOiJhNDQ2NjZlOC1kN2JjLTQ1ZGItODEzOC03ZTBjNmJmZGM3NjciLCJjdXN0b20iOnsibWdtdF9ncm91cCI6Ijg0YzQxYWQ1LWM4N2EtNDFhOC1iYWU1LTVkYTRlYmNhMzliNCJ9fQ:0
+[ 2265262ms] [INFO] [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/59e4bfdd6292ac0ac9174386/eyJrZXkiOiJhNDQ2NjZlOC1kN2JjLTQ1ZGItODEzOC03ZTBjNmJmZGM3NjciLCJjdXN0b20iOnsibWdtdF9ncm91cCI6Ijg0YzQxYWQ1LWM4N2EtNDFhOC1iYWU1LTVkYTRlYmNhMzliNCJ9fQ @ https://d28f3w0x9i80nq.cloudfront.net/app/analytics_1789656425.min.js:0

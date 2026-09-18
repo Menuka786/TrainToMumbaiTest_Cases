@@ -1,0 +1,108 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - banner [ref=f1e3]:
+      - generic [ref=f1e8]:
+        - link [ref=f1e10] [cursor=pointer]:
+          - /url: https://www.traintomumbai.com
+          - img "Canvas Logo" [ref=f1e11]
+        - navigation [ref=f1e12]:
+          - list [ref=f1e13]:
+            - listitem [ref=f1e14]:
+              - link "Home" [ref=f1e15] [cursor=pointer]:
+                - /url: https://www.traintomumbai.com
+            - listitem [ref=f1e17]:
+              - link "Spice Route" [ref=f1e18] [cursor=pointer]:
+                - /url: https://www.traintomumbai.com/spice-route
+            - listitem [ref=f1e20]:
+              - link "Concept" [ref=f1e21] [cursor=pointer]:
+                - /url: https://www.traintomumbai.com/concept
+            - listitem [ref=f1e23]:
+              - link "Catering" [ref=f1e24] [cursor=pointer]:
+                - /url: https://www.traintomumbai.com/catering
+                - generic [ref=f1e25]: Catering 
+              - text: 
+            - listitem [ref=f1e26]:
+              - link "Join Our team" [ref=f1e27] [cursor=pointer]:
+                - /url: https://www.traintomumbai.com/career
+            - listitem [ref=f1e29]:
+              - link "Contact" [ref=f1e30] [cursor=pointer]:
+                - /url: https://www.traintomumbai.com/contact-us
+        - link " 0" [ref=f1e33] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f1e34]: 
+          - generic [ref=f1e35]: "0"
+        - link "Order Now" [ref=f1e37] [cursor=pointer]:
+          - /url: https://order.toasttab.com/online/avanni-llc-11-town-center-drive
+    - generic [ref=f1e43]:
+      - heading "Spices used in our kitchen" [level=1] [ref=f1e45]
+      - generic [ref=f1e46]:
+        - generic [ref=f1e47]:
+          - heading "Asafetida (Hing)" [level=3] [ref=f1e50]
+          - paragraph [ref=f1e52]: Dried and powdered tree resin, is an essential spice and is usually one of the first aromatics added to hot ghee or oil. Its raw, pungent smell mellows into a musky aroma, adding smooth, umami flavors to lentils, beans, and vegetarian curries. Just a pinch goes a long way. Hing often contains wheat flour, but gluten-free versions are also available.
+        - generic [ref=f1e53]:
+          - heading "Cumin (Jeera)" [level=3] [ref=f1e56]
+          - paragraph [ref=f1e58]: An essential ingredient in Indian cooking, cumin adds nutty, warm flavors and dimension to countless dishes. Whole cumin seeds can be added to tempering, and roasted and ground cumin is great for adding later in the cooking process. Cumin adds an earthy tone and body to soups, daals, and curries. You can also add a pinch of ground cumin to plain yogurt for a nutrient and flavor boost.
+        - generic [ref=f1e59]:
+          - heading "Black Mustard Seeds (Mohri / Rai)" [level=3] [ref=f1e62]
+          - paragraph [ref=f1e64]: These pungent, nutty seeds add flavor to many dishes, from curries to chutneys to pickles to salads. Drop them in hot oil and wait for them to crackle and pop to release their flavor.
+        - generic [ref=f1e65]:
+          - heading "Ground Turmeric (Haldi)" [level=3] [ref=f1e68]
+          - paragraph [ref=f1e70]: Ground turmeric is a bright, healing spice that adds a peppery-woody taste and a deep golden color to curries. It is known for its anti-inflammatory properties and goes into everything from drinks to curries to stir-fried vegetables, and is even used for face masks!
+        - generic [ref=f1e71]:
+          - heading "Kashmiri red Chili Powder (Sukhi Lal Kashmiri Mirch)" [level=3] [ref=f1e74]
+          - paragraph [ref=f1e76]: Although there are many kinds of dry red chilies used in Indian cuisine, I prefer mild Kashmiri red chile, both whole, and ground, which has a brilliant red hue that adds natural food coloring and smoky flavor. When substituting other chiles for Kashmiri red chiles be mindful of the heat level.
+        - generic [ref=f1e77]:
+          - heading "Cassia Bark (Dalchini)" [level=3] [ref=f1e80]
+          - paragraph [ref=f1e82]: Cassia bark, with its delicately sweet flavor, is similar to cinnamon sticks. It adds earthy flavors to meat and curries and is essential in making spice blends. Cassia bark is also used in Indian cooking to add a layer of intensity to tea and hot chocolate. I have called for easier-to-find cinnamon sticks in the recipes, but if you do purchase cassia bark, it can be substituted.
+        - generic [ref=f1e83]:
+          - heading "Garam Masala" [level=3] [ref=f1e86]
+          - paragraph [ref=f1e88]: Literally translates to "warm spice mix" and it is the quintessential Indian Spice Blend. It gives warmth and depth to dishes and pairs perfectly with red or green chili for a hearty, aromatic flavor. Every region (and family) across India has its own version. My mother's garam masala recipe calls for twenty-one whole roasted spices and some of which can be hard to find. So she came up with this simplified 5-ingredient garam masala with a similar authentic flavor.
+        - generic [ref=f1e89]:
+          - heading "Dried Fenugreek Leaves (Kasoori Methi)" [level=3] [ref=f1e92]
+          - paragraph [ref=f1e94]: This fragrant dried herb has a slightly bitter taste but adds complex sweetness and that restaurant-style flavor to curries. Just before adding the leaves to a dish, crush them between the palms of your hands to release the aromatics. They can also be used as a garnish in North Indian curries. There is no good substitute for these leaves; you can skip them in a pinch but never replace them with whole or ground fenugreek seeds, which have a different flavor profile.Dried fenugreek leaves, also known as kasoori methi
+        - generic [ref=f1e95]:
+          - heading "Green Cardamom Pods (Elaichi)" [level=3] [ref=f1e98]
+          - paragraph [ref=f1e100]: Elaichi, a sweet and aromatic spice, is a must-have for Indian desserts and is equally critical for curries and pulao. When using the whole pod, it should be removed before consuming the dish. And for desserts, discard the outer pod and use a mortar and pestle to grind the seeds into a coarse powder.
+        - generic [ref=f1e101]:
+          - heading "Black Peppercorns (Kali Mirch)" [level=3] [ref=f1e104]
+          - paragraph [ref=f1e106]: These berries, which grow on climbing vines, are native to southern India. The unripe green berries are harvested when they ripen and turn red and are then dried to what we commonly see in grocery stores. Black peppercorns, added whole or ground, impart intense aroma, depth, and heat to foods. This integral spice is used in seasoning blends, such as garam masala, and is a must-have in your pantry.
+        - generic [ref=f1e107]:
+          - heading "Coriander (Dhania)" [level=3] [ref=f1e110]
+          - paragraph [ref=f1e112]: This versatile spice has a hint of citrus and adds earthy notes to Malabar curry, vindaloo, sambar, and rasam dishes. The whole seeds are lightly toasted and then ground with other spices for several popular spice blends. Ground coriander is popular because it adds texture to dishes and can be tasted with each bite. Coriander is often paired with cumin for just the right flavors of earthiness.
+        - generic [ref=f1e113]:
+          - heading "Saffron (Kesar)" [level=3] [ref=f1e116]
+          - paragraph [ref=f1e118]: A must-have spice for Indian desserts, saffron, a crimson stigma from the saffron crocus, must be handpicked. Grown in the Kashmir Valley, it takes hundreds of thousands of stigma to produce a pound of saffron, making it the most expensive spice in the world. Saffron adds an intense aroma, a floral flavor, and a gorgeous golden color to curries, biryanis, and desserts.
+        - generic [ref=f1e119]:
+          - heading "Ground Cardamom (Elaichi Powder)" [level=3] [ref=f1e122]
+          - paragraph [ref=f1e124]: This heady ground spice adds the perfect aroma to breakfast recipes and desserts. It is particularly handy to use, as it can be simply sprinkled over dishes during or after cooking, allowing you to forgo the time-consuming process of breaking open the pods and grinding the seeds.
+    - contentinfo [ref=f1e125]:
+      - generic [ref=f1e131]:
+        - generic [ref=f1e135]:
+          - heading "11 Town Center Drive, Suite 185 Lovettsville, VA" [level=5] [ref=f1e136]
+          - heading "Phone:" [level=5] [ref=f1e137]
+          - heading [level=5] [ref=f1e138]:
+            - link "+1 (540) 668-5095" [ref=f1e139] [cursor=pointer]:
+              - /url: tel:+1 (540) 668-5095
+            - link "+1 (540) 668-5183" [ref=f1e140] [cursor=pointer]:
+              - /url: tel:+1 (540) 668-5183
+        - list [ref=f1e142]:
+          - listitem [ref=f1e143]:
+            - text: 
+            - link "Spice Route" [ref=f1e144] [cursor=pointer]:
+              - /url: https://www.traintomumbai.com/spice-route
+          - listitem [ref=f1e145]:
+            - text: 
+            - link "Concept" [ref=f1e146] [cursor=pointer]:
+              - /url: https://www.traintomumbai.com/concept
+          - listitem [ref=f1e147]:
+            - text: 
+            - link "Catering" [ref=f1e148] [cursor=pointer]:
+              - /url: https://www.traintomumbai.com/catering
+          - listitem [ref=f1e149]:
+            - text: 
+            - link "Contact" [ref=f1e150] [cursor=pointer]:
+              - /url: https://www.traintomumbai.com/contact-us
+        - generic [ref=f1e152]:
+          - heading "Timings:" [level=5] [ref=f1e153]
+          - 'heading "Tuesday to Thursday: 11:30am to 2:30pm & 4:30pm to 9:00pm Friday: 11:30am to 9pm Saturday: Noon to 9pm Sunday: Noon- 3pm & 4:30-9pm Monday: Closed" [level=5] [ref=f1e154]'
+  - text: 
